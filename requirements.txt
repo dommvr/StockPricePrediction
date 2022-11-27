@@ -1,0 +1,5 @@
+matplotlib==3.6.2
+numpy==1.23.4
+pandas==1.5.2
+pandas_stubs==1.2.0.62
+tensorflow==2.11.0
